@@ -1,0 +1,145 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Seg7_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_4[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_4[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_4[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_4[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_4[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Seg7_4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Operate",
+					"strict" : false
+				},
+				{
+					"name" : "O_Led",
+					"strict" : false
+				},
+				{
+					"name" : "Temp0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Moisture[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Moisture[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Moisture[1]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
