@@ -1,8 +1,8 @@
-# Smart Watering System for Garden Plants
+# Smart Irrigation System for Garden Plants
 
 ## Overview
 
-This project presents a Smart Watering System designed for garden plants. The system intelligently determines the ideal irrigation time based on real-time moisture and temperature levels around the plant. By doing so, it efficiently utilizes water resources while ensuring the plant's needs are met.
+This project presents a Smart Irrigation System designed for garden plants. The system intelligently determines the ideal irrigation time based on real-time moisture and temperature levels around the plant. By doing so, it efficiently utilizes water resources while ensuring the plant's needs are met.
 
 ## Hardware Components
 
